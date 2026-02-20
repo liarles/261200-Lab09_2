@@ -1,5 +1,6 @@
-package oop.ocp;
+package oop.lsp;
 
 public interface Moveable { //นกทุกตัวเดินได้
     void move();
 }
+
