@@ -1,4 +1,4 @@
-package oop.ocp;
+package oop.lsp;
 
 public class Eagle implements Flyable{ //เหยี่ยวบินได้ มันเลยเดินได้ด้วย
     @Override
@@ -18,3 +18,4 @@ public class Eagle implements Flyable{ //เหยี่ยวบินได้
         System.out.println("Eagle follow " + obj);
     }
 }
+
