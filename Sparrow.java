@@ -1,4 +1,4 @@
-package oop.ocp;
+package oop.lsp;
 
 public class Sparrow implements Flyable { //นกกระจอกบินได้ มันเลยเดินได้ด้วย
     @Override
@@ -14,3 +14,4 @@ public class Sparrow implements Flyable { //นกกระจอกบินไ
 
     }
 }
+
