@@ -1,4 +1,4 @@
-package oop.ocp;
+package oop.lsp;
 
 public class Ostrich implements Moveable{ //นกกระจอกเทศเดินได้อย่างเดียว
     @Override
@@ -7,3 +7,4 @@ public class Ostrich implements Moveable{ //นกกระจอกเทศเ
 
     }
 }
+
